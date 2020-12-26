@@ -1,1 +1,1 @@
-# RLC-Filter-Circuit-for-Attenuation-of-Unwanted-Frequency
+# RLC-Filter-Circuit-for-Attenuation-of-Undesired-Frequency
